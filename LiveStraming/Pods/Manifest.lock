@@ -1,0 +1,24 @@
+PODS:
+  - LFLiveKit (2.6)
+  - Socket.IO-Client-Swift (12.0.0):
+    - StarscreamSocketIO (~> 8.0.7)
+  - StarscreamSocketIO (8.0.7)
+
+DEPENDENCIES:
+  - LFLiveKit (~> 2.6)
+  - Socket.IO-Client-Swift (~> 12.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LFLiveKit
+    - Socket.IO-Client-Swift
+    - StarscreamSocketIO
+
+SPEC CHECKSUMS:
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  Socket.IO-Client-Swift: 5b0154b42b3892bfb4c44fa138cbeb8afec4f6ef
+  StarscreamSocketIO: 00b54e4208481ca5cef089545353aaf126bae16d
+
+PODFILE CHECKSUM: 57d5c8b93cb0bb868d8ad0588445064d51d4bffd
+
+COCOAPODS: 1.5.3

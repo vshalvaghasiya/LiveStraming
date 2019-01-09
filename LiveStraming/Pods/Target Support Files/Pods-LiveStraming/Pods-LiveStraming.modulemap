@@ -1,0 +1,6 @@
+framework module Pods_LiveStraming {
+  umbrella header "Pods-LiveStraming-umbrella.h"
+
+  export *
+  module * { export * }
+}
